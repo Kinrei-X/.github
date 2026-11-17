@@ -1,6 +1,6 @@
 <div align="center">
 
-#  kinrei-x
+#  KINREI-X
 
 **Building next-generation software, developer tools, and open-source infrastructure.**
 
